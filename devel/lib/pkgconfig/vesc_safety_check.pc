@@ -1,0 +1,8 @@
+prefix=/home/nvidia/xycar_ws/devel
+
+Name: vesc_safety_check
+Description: Description of vesc_safety_check
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
